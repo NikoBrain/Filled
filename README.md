@@ -1,3 +1,4 @@
+## Warning: The files on github only contain the mods themselves since including resource and shaderpacks makes the file too big; download on modrinth instead
 # Overview
 This modpack adds over 100 fully client-side fabric mods to create the ultimate vanilla experience. From Sodium to Xaero's Minimap, Filled has it all. It focuses on adding both tons of accessible, useful and necessary quality of life features, as well as strong performance improvements, achieving high fps on even the lowest end computers. The included mods do not clutter the gui or the world, they contribute and compliment it, keeping the vanilla feel while containing features that should exist in the vanilla game.
 
