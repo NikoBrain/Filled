@@ -170,18 +170,21 @@ Filled is fully client side, letting you play on your favorite server.
    </ul>
 </details>
 <details>
-    <summary>Recommended Resource Packs</summary>
+    <summary>Recommended Resource and Shader Packs</summary>
    <ul>
 <li><a href="https://www.curseforge.com/minecraft/texture-packs/alacrity"> [Alacrity]</a></li>
 <li><a href="https://www.curseforge.com/minecraft/texture-packs/dramatic-skys"> [Dramatic Skys]</a></li>
 <li><a href="https://www.curseforge.com/minecraft/texture-packs/enhanced-boss-bars"> [Enhanced Boss Bars]</a></li>
-<li><a href=""> []</a></li>
+<li><a href="https://www.curseforge.com/minecraft/texture-packs/faithful-32x"> [Faithful 32x]</a></li>
 <li><a href="https://www.curseforge.com/minecraft/texture-packs/faithless"> [Faithless]</a></li>
 
    <li><a href="https://www.curseforge.com/minecraft/texture-packs/fresh-animations"> [Fresh Animations]</a></li>
+<li><a href="https://www.curseforge.com/minecraft/texture-packs/hyper-realistic-skybox-sun-moon-clouds"> [Hyper Realistic Sky] </a></li>
     <li><a href="https://www.curseforge.com/minecraft/texture-packs/ozocraft-remix"> [Ozocraft Remix]</a></li>
-    <li><a href=""> []</a></li>
+    <li><a href="https://www.curseforge.com/minecraft/texture-packs/patrix-32x"> [Patrix 32x]</a></li>
+<li><a href="https://modrinth.com/shader/bsl-shaders">[BSL Shaders]</a></li>
    </ul>
+
 </details>
 
 # Disclaimer
