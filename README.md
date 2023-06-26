@@ -1,8 +1,5 @@
-## Warning: The files on github only contain the mods themselves since including resource and shaderpacks makes the file too big; download on modrinth instead
 # Overview
-This modpack adds over 100 fully client-side fabric mods to create the ultimate vanilla experience. From Sodium to Xaero's Minimap, Filled has it all. It focuses on adding both tons of accessible, useful and necessary quality of life features, as well as strong performance improvements, achieving high fps on even the lowest end computers. The included mods do not clutter the gui or the world, they contribute and compliment it, keeping the vanilla feel while containing features that should exist in the vanilla game.
-
-Install here: https://modrinth.com/modpack/filled
+This modpack adds over 100 fully client-side fabric mods to create the ultimate vanilla experience. From Sodium to Xaero's Minimap, Filled has it all. It focuses on adding both tons of accessible, useful and necessary quality of life features, as well as strong performance improvements and optimizations, achieving high fps on even the lowest end computers. The included mods do not clutter the gui or the world, they contribute and compliment it, keeping the vanilla feel while containing features that should exist in the vanilla game.
 #### User Testimony
 
 > Lunar is so bad compared to Filled
@@ -30,7 +27,7 @@ Filled is fully client side, letting you play on your favorite server.
 
 > Q. The modpack is crashing or breaking my game!
 >
-> A. Email me the crash report (if there is one) and what you were doing and what happened as well as steps to reproduce: nikobrains@gmail.com
+> A. Either open an issue on github with the crash report (if there is one) and what you were doing and what happened as well as steps to reproduce or email me these details (nikobrains@gmail.com)
 
 > Q. How do I add other mods to my game?
 >
@@ -38,7 +35,7 @@ Filled is fully client side, letting you play on your favorite server.
 
 > Q. I have a question or want to make a suggestion!
 >
-> A. Email me them; I read all suggestions! nikobrains@gmail.com
+> A. Either go to the github and open an issue, or email me (nikobrains@gmail.com)
 
 
 
@@ -68,6 +65,7 @@ Filled is fully client side, letting you play on your favorite server.
     <li><a href="https://modrinth.com/mod/cameraoverhaul">[Camera Overhaul]</a></li>
     <li><a href="https://modrinth.com/mod/camera-utils">[Camera Utils]</a></li>
     <li><a href="https://modrinth.com/mod/capes">[Capes]</a></li>
+    <li><a href="https://modrinth.com/mod/cave-dust">[Cave Dus]</a></li>
     <li><a href="https://modrinth.com/mod/chatpatches">[Chat Patches]</a></li>
     <li><a href="https://modrinth.com/plugin/chunky">[Chunky]</a></li>
     <li><a href="https://modrinth.com/mod/clean-tooltips">[Clean Tooltips]</a>
@@ -79,6 +77,7 @@ Filled is fully client side, letting you play on your favorite server.
     <li><a href="https://modrinth.com/mod/c2me-fabric">[Concurrent Chunk Management Engine]</a>
     <li><a href="https://modrinth.com/mod/continuity">[Continuity]</a>
     <li><a href="https://www.curseforge.com/minecraft/mc-mods/controlling">[Controlling]</a>
+    <li><a href="https://modrinth.com/mod/craftpresence">[CraftPresence]</a>
     <li><a href="https://modrinth.com/mod/creativecore">[Creative Core]</a>
     <li><a href="https://modrinth.com/mod/dashloader">[Dash Loader]</a>
     <li><a href="https://modrinth.com/mod/deathlog">[DeathLog]</a>
@@ -100,12 +99,10 @@ Filled is fully client side, letting you play on your favorite server.
     <li><a href="https://modrinth.com/mod/fabricskyboxes">[FabricSkyBoxes]</a>
     <li><a href="https://modrinth.com/mod/fabricskyboxes-interop">[FabricSkyBoxes Interop]</a>
     <li><a href="https://modrinth.com/mod/fabrishot">[Fabrishot]</a>
-    <li><a href="https://www.curseforge.com/minecraft/mc-mods/farsight-fabric">[Farsight (Disabled)]</a>
-    <li><a href="https://modrinth.com/mod/fastload">[Fast Load (Disabled)]</a>
+    <li><a href="https://modrinth.com/mod/fastanim">[FastAnim]</a>
     <li><a href="https://modrinth.com/mod/ferrite-core">[FerriteCore]</a>
     <li><a href="https://modrinth.com/mod/first-person-model">[FirstpersonModel]</a>
     <li><a href="https://modrinth.com/mod/forge-config-api-port">[Forge Config API Port]</a>
-    <li><a href="https://www.curseforge.com/minecraft/mc-mods/fps-reducer">[FPS Reducer (Disabled)]</a>
     <li><a href="https://modrinth.com/mod/full-brightness-toggle">[Full Brightness Toggle]</a>
     <li><a href="https://modrinth.com/mod/held-item-info">[Held Item Info]</a>
     <li><a href="https://modrinth.com/mod/iceberg">[Iceberg]</a>
@@ -121,6 +118,7 @@ Filled is fully client side, letting you play on your favorite server.
     <li><a href="https://modrinth.com/mod/libipn">[liblPN]</a>
     <li><a href="https://www.curseforge.com/minecraft/mc-mods/litematica">[Litematica]</a>
     <li><a href="https://modrinth.com/mod/lithium">[Lithium]</a>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/make_bubbles_pop">[Make Bubbles Pop]</a>
     <li><a href="https://www.curseforge.com/minecraft/mc-mods/malilib">[MaLiLib]</a>
     <li><a href="https://modrinth.com/mod/memoryleakfix">[Memory Leak Fix]</a>
     <li><a href="https://www.curseforge.com/minecraft/mc-mods/minihud">[MiniHUD]</a>
@@ -149,10 +147,9 @@ Filled is fully client side, letting you play on your favorite server.
     <li><a href="https://modrinth.com/mod/screenshot-to-clipboard">[Screenshot to Clipboard]</a>
     <li><a href="https://www.curseforge.com/minecraft/mc-mods/screenshot-viewer">[Screenshot Viewer]</a>
     <li><a href="https://modrinth.com/mod/searchables">[Searchables]</a>
-    <li><a href="https://modrinth.com/mod/simple-discord-rpc">[Simple Discord Rich Presence]</a>
     <li><a href="https://modrinth.com/plugin/simple-voice-chat">[Simple Voice Chat]</a>
     <li><a href="https://modrinth.com/mod/sodium">[Sodium]</a>
-    <li><a href="https://modrinth.com/mod/sodium-extra">[Sodium Extra (Disabled)]</a>
+    <li><a href="https://modrinth.com/mod/sodium-extra">[Sodium Extra]</a>
     <li><a href="https://modrinth.com/mod/sound-physics-remastered">[Sound Physics Remastered]</a>
     <li><a href="https://modrinth.com/mod/spark">[spark]</a>
     <li><a href="https://modrinth.com/mod/starlight">[Starlight]</a>
@@ -170,6 +167,20 @@ Filled is fully client side, letting you play on your favorite server.
     <li><a href="https://modrinth.com/mod/yacl">[YetAnotherConfigLib]</a>
     <li><a href="https://modrinth.com/mod/yungs-api">[YUNG's API]</a>
    <li><a href="https://modrinth.com/mod/subtitle-highlight"> [字幕高亮]</a></li>
+   </ul>
+</details>
+<details>
+    <summary>Recommended Resource Packs</summary>
+   <ul>
+<li><a href="https://www.curseforge.com/minecraft/texture-packs/alacrity"> [Alacrity]</a></li>
+<li><a href="https://www.curseforge.com/minecraft/texture-packs/dramatic-skys"> [Dramatic Skys]</a></li>
+<li><a href="https://www.curseforge.com/minecraft/texture-packs/enhanced-boss-bars"> [Enhanced Boss Bars]</a></li>
+<li><a href=""> []</a></li>
+<li><a href="https://www.curseforge.com/minecraft/texture-packs/faithless"> [Faithless]</a></li>
+
+   <li><a href="https://www.curseforge.com/minecraft/texture-packs/fresh-animations"> [Fresh Animations]</a></li>
+    <li><a href="https://www.curseforge.com/minecraft/texture-packs/ozocraft-remix"> [Ozocraft Remix]</a></li>
+    <li><a href=""> []</a></li>
    </ul>
 </details>
 
